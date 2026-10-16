@@ -10,9 +10,12 @@ Após participar de um projeto na Feira de Ciência e Tecnologia do colégio no 
 
 ### Áreas de interesse:
 ✅Machine Learning 
+
 ✅Desenvolvimento de software
+
 ✅Data science 
 
-###Contato📞
+
+### Contato📞
 - email:e-mail:ma.mariadanova@gmail.com 
 
