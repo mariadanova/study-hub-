@@ -22,5 +22,5 @@ Status: cursando
 
 
 ### Contato📞
-- email:e-mail:ma.mariadanova@gmail.com 
+- email:ma.mariadanova@gmail.com 
 
